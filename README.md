@@ -1,5 +1,5 @@
 # ProgMicroInform
-Repositório com as atividades desenvolvidas na matéria de Programação em Microinformática utilizando c#
+Repositório com as atividades desenvolvidas na matéria de Programação em Microinformática utilizando C#
 
 ## Exercícos 15-06
 1) Desenvolva um programa que permita a entrada do nome do usuário e exiba na tela.
